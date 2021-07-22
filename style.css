@@ -1,0 +1,82 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+/*Cabeçalho e rodapé*/
+
+header{
+	background: #FF9E81;	
+}
+
+.caixa {
+	position: relative;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 110px;
+	left: 60%;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #FF5353;
+	text-decoration: underline;
+	text-shadow: 1px 1px 2px rgb(255, 255, 255, 1);
+}
+
+footer {
+	text-align: center;
+	background: linear-gradient(#FFFFFF, #FF9E81);
+	padding: 10px 0;
+}
+
+.logo-rodape{
+	display: inline;
+	text-align: center;
+}
+
+.copyright {
+	color: #FF5353;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+/*Página principal*/
+.paisagem{
+	margin: 0 10px;
+
+}
+
+.itens-paisagem{
+	display: inline-block;
+	width: 33%;
+}
+
+h2{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 30px 30px;
+	color: #FF5353;
+	text-shadow: 1px 1px 2px rgb(255, 0, 0, 1);
+}
+
+/*Página Sobre*/
+
+.historia{
+	margin: 30px 30px;
+}
