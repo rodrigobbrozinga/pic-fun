@@ -9,6 +9,10 @@ body {
 	width: 100px;
 }
 
+main {
+	margin-top: 130px;
+}
+
 .img-carrossel {
 	height: 60vh;
 	object-fit: cover;
