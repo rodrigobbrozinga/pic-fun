@@ -4,14 +4,9 @@ body {
 
 /*Cabeçalho e rodapé*/
 
-.navbar {
-	display: flex;
-	justify-content: space-between;
-}
-
 .nav-logo {
-	height: 150px;
-	width: 150px;
+	height: 100px;
+	width: 100px;
 }
 
 footer {
