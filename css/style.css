@@ -9,6 +9,16 @@ body {
 	width: 100px;
 }
 
+.img-carrossel {
+	height: 60vh;
+	object-fit: cover;
+}
+
+.fonte-titulo {
+	font-family: 'Dancing Script', cursive;
+	text-shadow: 2px 2px #000000;
+}
+
 footer {
 	text-align: center;
 	background: linear-gradient(#FFFFFF, #FF9E81);
@@ -38,12 +48,13 @@ footer {
 }
 
 h2{
+	font-family: 'Dancing Script', cursive;
 	text-align: center;
-	font-size: 20px;
+	font-size: 36px;
 	font-weight: bold;
 	margin: 30px 30px;
 	color: #FF5353;
-	text-shadow: 1px 1px 2px rgb(255, 0, 0, 1);
+	text-shadow: 1px 1px 2px rgb(0, 0, 0, 1);
 }
 
 /*Página Sobre*/
