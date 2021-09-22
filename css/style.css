@@ -51,6 +51,24 @@ footer {
 	width: 33%;
 }
 
+.card-largura{
+    max-width: 18rem;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
+}
+
+.botao-cor-especial {
+    background-color: #FF1717;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: #FF1717;
+}
+
 h2{
 	font-family: 'Dancing Script', cursive;
 	text-align: center;
