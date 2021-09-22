@@ -5,16 +5,16 @@ body {
 /*Cabeçalho e rodapé*/
 
 .nav-logo {
-	height: 100px;
-	width: 100px;
+	height: 70px;
+	width: 70px;
 }
 
 :target {
-	scroll-margin-top: 130px;
+	scroll-margin-top: 100px;
   }
 
 main {
-	margin-top: 130px;
+	margin-top: 100px;
 }
 
 .img-carrossel {
@@ -72,6 +72,15 @@ footer {
 
 .borda-cor-especial {
     border-color: #FF1717;
+}
+
+.lista-kids {
+	list-style: disc;
+	margin: 1.5rem;
+}
+
+.lista-kids ::marker {
+	color: #FF1717;
 }
 
 h2{
