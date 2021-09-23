@@ -99,6 +99,12 @@ h3 {
 	margin-left: 1.5rem;
 }
 
+.titulo-modal-contato {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-size: 28px;
+}
+
 p {
 	margin: 0 1.5rem;
 	text-align: justify;
